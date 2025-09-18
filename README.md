@@ -11,6 +11,8 @@ In underserved Nigerian communities, limited access to clean water leads to heal
 - Problem framing
 - Data cleaning & decision modeling
 ## Key Outputs
-- Water Safety Checker (Excel & Python)
-- MECE Tree for clean water solutions
-- Flowchart & pseudocode logic
+- Developed water safety assessment logic using Excel and Python
+- Designed flowcharts, pseudocode, and MECE tree to structure decision-making
+- Applied EGAD framework to define and analyze the problem
+- Project currently in deployment phase; dashboard and reporting tools in progress
+
